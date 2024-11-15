@@ -1,0 +1,2 @@
+D:/c++/LightYears/LightYearsEngine/CMakeFiles/CMakeScratch/TryCompile-33ftqq/CMakeFiles/cmTC_35706.dir
+D:/c++/LightYears/LightYearsEngine/CMakeFiles/CMakeScratch/TryCompile-33ftqq/CMakeFiles/ALL_BUILD.dir
